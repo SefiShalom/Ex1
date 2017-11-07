@@ -16,6 +16,8 @@ def sense(p, Z):
     return q
 
 
+
+
 for i in range(6):
     p= sense(p, Z[0])
 print("After 6 senses of ",Z[0],":")
